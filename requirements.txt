@@ -2,4 +2,4 @@ streamlit
 PyPDF2
 python-dotenv
 docx2txt
-google-generatveai
+langchain_google_genai
